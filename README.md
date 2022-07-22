@@ -1,2 +1,2 @@
 # Projetos para estudo
-Aqui estão projeto para servirem como fonte de código.
+Aqui estão projetos para servirem como fonte de código.
